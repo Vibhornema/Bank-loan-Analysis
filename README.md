@@ -19,3 +19,9 @@ An interactive **Bank Loan Analysis Dashboard** built in **Microsoft Excel**, de
    - 📈 Line & Bar Charts  
    - 🧭 US State Map  
    - 🍩 Donut & Stacked Graphs
+
+
+## 📌 PREVIEW
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/68646ceb-7271-4007-b712-3fed01334d0d" />
+
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/a1dc6630-6188-4e9f-bc54-967bd7555559" />
