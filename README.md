@@ -1,26 +1,21 @@
-📊 Bank Loan Analysis (Excel Dashboard Project)
-This project presents an interactive Bank Loan Analysis Dashboard built entirely in Microsoft Excel. Using real-world loan data, it offers detailed insights into loan application trends, borrower profiles, loan performance, and risk assessment.
+# 💼 Bank Loan Analysis | Excel Dashboard Project
 
-Key Features:
+An interactive **Bank Loan Analysis Dashboard** built in **Microsoft Excel**, designed to explore loan data, identify trends, and assess risk. This project combines data processing, pivot tables, and clean visuals to provide actionable insights for financial decision-making.
 
-Clean, structured dataset of loan applications
+---
 
-Interactive dashboards with slicers for:
+## 📌 Key Highlights
 
-Loan grade
-
-Purpose
-
-Home ownership
-
-Summary KPIs: Total funded amount, interest rates, DTI, good vs. bad loans
-
-Visuals: Donut charts, bar graphs, line charts, and U.S. map-based loan distribution
-
-Month-over-month (MoM) and month-to-date (MTD) analytics
-
-📁 Files Included:
-
-Excel workbook with datasets, pivot tables, and dashboards
-
-Dashboard images for preview
+✅ Clean and structured loan dataset  
+✅ Fully interactive Excel dashboard  
+✅ Dynamic filters: `Loan Grade`, `Purpose`, `Home Ownership`  
+✅ KPI tracking:  
+   - Total Loan Applications  
+   - Funded & Received Amounts  
+   - Average Interest Rate & DTI  
+✅ Good vs. Bad Loan Segmentation  
+✅ MTD & MoM Analysis  
+✅ Data visualization using:  
+   - 📈 Line & Bar Charts  
+   - 🧭 US State Map  
+   - 🍩 Donut & Stacked Graphs
